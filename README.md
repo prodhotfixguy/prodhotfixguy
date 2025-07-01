@@ -1,7 +1,7 @@
 # 👋 Hey, I’m Cody Petersen
 
 Welcome!  
-I’m a long-time Network Administrator currently pivoting into **backend development** and **network automation**.
+I’m a long-time Network Administrator currently pivoting into **development** and ultimately, **automation**.
 
 This GitHub is brand new—because I wanted a clean start for this next chapter of my career.
 
