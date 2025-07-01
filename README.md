@@ -1,4 +1,4 @@
-# 👋 Hey, I’m Cody Petersen (aka `prodhotfixguy`)
+# 👋 Hey, I’m Cody Petersen
 
 Welcome!  
 I’m a long-time Network Administrator currently pivoting into **backend development** and **network automation**.
