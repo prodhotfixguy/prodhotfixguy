@@ -3,7 +3,7 @@
 Welcome!  
 I’m a long-time Network Administrator currently pivoting into **development** and ultimately, **automation**.
 
-This GitHub is brand new—because I wanted a clean start for this next chapter of my career.
+This GitHub is new — because I wanted a clean start for this next chapter of my career.
 
 ---
 
@@ -13,13 +13,14 @@ This GitHub is brand new—because I wanted a clean start for this next chapter 
 - Building small tools for network automation
 - Working through backend frameworks like **Spring** and **Django**
 - Pushing my first real projects (stay tuned!)
+- Finishing my Bachelor's in Software Engineering through WGU (almost done!)
 
 ---
 
 ### 🚀 Why This Account Looks Empty (For Now)
 
 I’ve spent years fixing production issues in real-world IT environments.  
-But now I’m building from scratch on the dev side—**and I want this space to reflect my actual progress.**  
+But now I’m building from scratch on the dev side — **and I want this space to reflect my actual progress.**  
 Every commit going forward will represent something I learned, built, or broke and fixed.
 
 ---
